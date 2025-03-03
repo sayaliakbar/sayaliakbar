@@ -1,4 +1,4 @@
-# Hello World! 👋🏼, I'm Ali, a Pakistani Web Developer :
+# Hello World👋🏼 I'm Ali, a Pakistani Web Developer :
 
 🔬 I'm currently working on MERN stack project that enhances user experience with seamless UI/UX and backend optimizations.<br>🤝🏻 I'm looking to collaborate on open-source MERN stack projects, AI-based applications, and anything that involves innovative web development.<br>🆘 I'm looking for help with exploring advanced DevOps practices, cloud deployment, and scalable architecture for MERN stack applications.<br>🌱 I'm currently learning Next.js, advanced backend optimizations, and improving my skills in AI and content localization.<br>💬 Ask me about MERN stack development, frontend optimization, leadership experiences, freelancing, and content localization.
 
